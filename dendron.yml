@@ -22,6 +22,10 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies/localhost/my-value
+            selfContained: true
+            name: my-value
+        -
             fsPath: .
             selfContained: true
             name: reading-notes
@@ -107,3 +111,8 @@ publishing:
     enableRandomlyColoredTags: true
     enableTaskNotes: true
     enablePrettyLinks: true
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - my-value
+            - reading-notes
