@@ -2,7 +2,7 @@
 id: 8wo8egatyd0yowuhaf9vznn
 title: Stduy Node
 desc: '当前节点是记录学习 node 的总结'
-updated: 1658299610810
+updated: 1658471493467
 created: 1658296584686
 ---
 # 什么是 Node？
@@ -19,3 +19,10 @@ Node.js 是一套 javaScript 运行环境，用来支持 javaScript 代码的执
 >>- 服务端
 >>- 前端
 >>- 运维部署相关
+
+## 思维导图
+[深入浅出的Node](https://naotu.baidu.com/file/3d1c096ebe07c2edbe1237bdfa963b96)
+
+
+## 我的实际操作
+[vue3+vite+node](https://github.com/LuckBright/node-vue-vite)
