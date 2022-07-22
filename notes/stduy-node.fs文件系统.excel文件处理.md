@@ -3,7 +3,7 @@ id: y54sblz5mzhsw10kjugjbv3
 title: Excel文件处理
 desc: ''
 parent: 'Stduy-node.fs文件系统'
-updated: 1658482403752
+updated: 1658482881533
 created: 1658481777120
 ---
 ## 插件引入
@@ -27,7 +27,7 @@ console.log(sheets[index])
 
 ## 解析文件后获得数据的结构
 
-```json
+```javaScript
 // sheets[index].data
 {
   name: '' // 为 xlsx 文件的当前页的名称

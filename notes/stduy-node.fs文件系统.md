@@ -3,7 +3,7 @@ id: em7qq5i4ewbaecxhtxqa01z
 title: Fs文件系统
 desc: ''
 parent: 'Stduy-node'
-updated: 1658301847135
+updated: 1658482893791
 created: 1658299640698
 ---
 ## 什么是 fs 文件系统模块
@@ -65,7 +65,7 @@ fs.writeFileSync() // 同步
 
 - 示例
 向指定的文件路径中，写入文件内容
-```
+```javaScript
 const content = '我第二次写入这个文件'
 
 fs.writeFile(__dirname + '/path/file.txt', content, err => {

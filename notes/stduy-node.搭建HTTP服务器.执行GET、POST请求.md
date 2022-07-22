@@ -3,12 +3,12 @@ id: 69qm1st1mevo3j3m83aej5k
 title: 执行GET、POST请求
 desc: ''
 parent: 'Stduy-node.搭建HTTP服务器'
-updated: 1658309247040
+updated: 1658482840504
 created: 1658303113881
 ---
 ## 初始化服务
 使用 `http.createServer()` 创建 Server 服务
-```
+```javaScript
   var server = http.createServer()
   server.on('request', callback(request, response))
 ```
@@ -19,7 +19,7 @@ created: 1658303113881
 >- * response 访问对象。由 HTTP 服务器在内部创建， 它作为第二个参数传给 `request` 事件
 
 - 示例
-```
+```javaScript
 const server = http.createServer()
 server.on('request', (req, res) => {
   const url = req.url
@@ -55,6 +55,6 @@ server.on('request', (req, res) => {
 })
 ```
 ## 启动 HTTP 服务器监听连接
-```
+```javaScript
 server.listen('端口号', () => {...})
 ```
