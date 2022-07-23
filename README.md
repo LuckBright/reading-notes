@@ -1,2 +1,15 @@
 # reading-notes
-记录了一些自己的读书感悟
+每天记录一点学习笔记
+
+# CSS
+
+# JavaScript
+
+# Vue
+
+# HTML
+
+# Node
+
+
+
