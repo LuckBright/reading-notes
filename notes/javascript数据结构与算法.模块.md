@@ -2,7 +2,7 @@
 id: jatgs1zlipq7g7cglg5e0rz
 title: 模块
 desc: 'ES2015 在 javascript 标准中引入了一种官方的模块功能'
-updated: 1671071446937
+updated: 1671429988897
 created: 1671071007711
 ---
 
