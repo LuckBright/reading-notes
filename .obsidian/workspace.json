@@ -19,8 +19,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3788c4cf42a38210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/设计模式/JavaScript 设计模式与开发实践.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be037c8a97f0a657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/设计模式/JavaScript 设计模式与开发实践.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d607dde5fe897513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/设计模式/基础回顾.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0caf5c52ee1f05a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/设计模式/多态.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/框架/sass/循环.md",
+                "file": "notes/设计模式/多态.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/框架/sass/循环.md",
+                "file": "notes/设计模式/多态.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/框架/sass/循环.md"
+                "file": "notes/设计模式/多态.md"
               }
             }
           }
@@ -148,17 +201,17 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "bc6c86e8e6701694",
+  "active": "0caf5c52ee1f05a8",
   "lastOpenFiles": [
+    "notes/设计模式/基础回顾.md",
+    "notes/设计模式/多态.md",
+    "notes/设计模式/JavaScript 设计模式与开发实践.md",
+    "notes/框架/sass/循环.md",
     "notes/框架/sass/@for 循环指令.md",
     "notes/框架/sass/@while 循环指令.md",
-    "notes/框架/sass/循环.md",
     "notes/框架/sass.md",
     "notes/JavaScript基础/script 标签中 defer 和 async 的区别.md",
     "notes/JavaScript基础/现代（严格）模式 “use strict”.md",
-    "notes/费曼学习法.md",
-    "notes/assets/drawio/study-node-vue/nodefs系统需求.drawio.png",
-    "notes/assets/drawio/feiman/否定式证据.png",
-    "notes/assets/drawio/feiman/费曼技巧-输出原则.png"
+    "notes/费曼学习法.md"
   ]
 }
