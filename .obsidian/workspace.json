@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/设计模式/基础回顾.md",
+                "file": "notes/设计模式/基于原型继承的JavaScript对象系统.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/设计模式/基础回顾.md",
+                "file": "notes/设计模式/基于原型继承的JavaScript对象系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/设计模式/基础回顾.md",
+                "file": "notes/设计模式/基于原型继承的JavaScript对象系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/设计模式/基础回顾.md"
+                "file": "notes/设计模式/基于原型继承的JavaScript对象系统.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "cc6128062b8d043f",
   "lastOpenFiles": [
-    "notes/设计模式/多态.md",
     "notes/设计模式/基础回顾.md",
-    "notes/设计模式/封装.md",
     "notes/设计模式/JavaScript 设计模式与开发实践.md",
+    "notes/设计模式/基于原型继承的JavaScript对象系统.md",
+    "notes/设计模式/封装.md",
+    "notes/设计模式/多态.md",
     "notes/框架/sass/循环.md",
     "notes/框架/sass/@for 循环指令.md",
     "notes/框架/sass/@while 循环指令.md",
     "notes/框架/sass.md",
-    "notes/JavaScript基础/script 标签中 defer 和 async 的区别.md",
-    "notes/JavaScript基础/现代（严格）模式 “use strict”.md"
+    "notes/JavaScript基础/script 标签中 defer 和 async 的区别.md"
   ]
 }
