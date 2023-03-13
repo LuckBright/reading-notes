@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d9615aa8b983855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/优秀的方法以及思路/Input 框限制小数后几位输入.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/设计模式/基础回顾.md",
+                "file": "notes/优秀的方法以及思路/Input 框限制小数后几位输入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/设计模式/基础回顾.md",
+                "file": "notes/优秀的方法以及思路/Input 框限制小数后几位输入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/设计模式/基础回顾.md"
+                "file": "notes/优秀的方法以及思路/Input 框限制小数后几位输入.md"
               }
             }
           }
@@ -162,10 +175,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "499344048481a97c",
+  "active": "7d9615aa8b983855",
   "lastOpenFiles": [
-    "notes/javascript数据结构与算法.模块.md",
     "notes/设计模式/基础回顾.md",
+    "notes/优秀的方法以及思路/Input 框限制小数后几位输入.md",
+    "notes/javascript数据结构与算法.模块.md",
     "notes/设计模式/基于原型继承的JavaScript对象系统.md",
     "notes/设计模式/javaScript 原型编程的基本规则.md",
     "notes/设计模式/封装.md",
