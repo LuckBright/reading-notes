@@ -1,4 +1,5 @@
 - ### 以下是来自chatGPT的学习计划
+  collapsed:: true
 	- 第一周：
 	  collapsed:: true
 		- Day 1：建立学习计划，设定长期和短期目标，制定一个每周的复习计划。
@@ -59,6 +60,7 @@
 		  3. 英语短故事：https://www.storynory.com/category/fairy-tales/
 		  4. 日常英语用语：https://www.englishclass101.com/english-phrases/
 - ### 推荐的一些基础词法和语法的学习平台
+  collapsed:: true
 	- 1. Duolingo: Duolingo 是一个非常受欢迎的免费在线语言学习平台，提供基础的语法和词汇课程，适合初学者入门。
 	  2. BBC learning English: BBC Learning English 是一个非常好的英语学习资源网站，提供英语学习视频、音频、练习和游戏等，很适合初学者练习基本语法和词汇。
 	  3. EnglishCentral: EnglishCentral 提供在线英语学习视频，涵盖了不同主题和难度级别的课程，可以帮助提高听力和口语。
