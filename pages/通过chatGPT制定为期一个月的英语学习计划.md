@@ -1,7 +1,5 @@
 - ### 以下是来自chatGPT的学习计划
-  collapsed:: true
 	- 第一周：
-	  collapsed:: true
 		- Day 1：建立学习计划，设定长期和短期目标，制定一个每周的复习计划。
 		- Day 2：学习英语的基本语法和词汇。
 		- Day 3：练习写英语，从简单的句子开始，逐渐增加复杂度。
@@ -10,13 +8,11 @@
 		- Day 6：复习所学的语法和词汇。
 		- Day 7：设定下周的学习计划。
 	- 相关资源：
-	  collapsed:: true
 		- 1. 英语语法：https://www.englishgrammar.org/
 		  2. 易错单词：https://www.vocabulary.com/lists/3313895
 		  3. 英语听力：https://www.esl-lab.com/
 		  4. 英语阅读：https://www.readingrockets.org/article/english-language-learners-reading
 	- 第二周：
-	  collapsed:: true
 		- Day 8：继续学习英语语法和词汇。
 		- Day 9：写一篇短文，检查语法和拼写错误。
 		- Day 10：听英语广播或者音频文件，并做笔记。
