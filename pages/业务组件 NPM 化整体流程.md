@@ -1,0 +1,21 @@
+- 底层架构工具
+	- [[vite]]#第三方库
+	- [[Vue3]]
+	- 文档系统
+		- [[vitepress]] #第三方库  [VitePress 中文网](https://vitejs.cn/vitepress/#%E5%AF%B9-vuepress-%E7%9A%84%E6%94%B9%E8%BF%9B)
+	- 代码检查以及代码格式化
+		- eslint + prettier
+		- [掘金配置参考文献](https://juejin.cn/post/7043702363156119565)
+	- [[JSX]] 支持 #JSX
+		- vite 官方提供了插件来支持在 vue3 中使用 jsx/tsx，直接安装使用即可。
+		- [掘金链接：Vue3+Vite 中 JSX 的使用方法](https://juejin.cn/post/7174438569212116999)
+	- 样式体系
+	  collapsed:: true
+		- scss 体系
+		- [[Tailwind CSS]] 作为CSS库#第三方库
+	- CLI 工具 #手写脚手架 [[开发组件库 CLI 工具]]
+		- 目的：
+			- 创建统一组件结构
+			- 创建组件库入口文件
+-
+-
