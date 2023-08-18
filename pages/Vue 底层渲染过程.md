@@ -1,0 +1,9 @@
+- Vue 的渲染引擎是基于 VirTual DOM 实现的。
+	- 1、解析模板：Vue首先会解析模板，并生成一个抽象语法树（AST）。
+	- 2、生成渲染函数：Vue根据AST生成一个渲染函数，该函数用于生成Virtual DOM树。
+	- 3、执行渲染函数：当组件的状态发生变化时，Vue会重新执行渲染函数，生成一个新的Virtual DOM树。
+	- 4、对比新旧Virtual DOM树：Vue会对比新旧Virtual DOM树的差异，找出需要更新的部分。
+	- 5、更新DOM：Vue会根据差异更新真实的DOM树。
+- 以下是简单的流程图
+	- ![Vue组件渲染流程图](https://cdn.jsdelivr.net/gh/LuckBright/uPicImage@main/uPic/rKkiz9.png)
+-
