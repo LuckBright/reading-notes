@@ -1,0 +1,8 @@
+- 在线阅读链接
+	- https://kaisery.github.io/trpl-zh-cn/
+- 2023年12月23日
+	- **Rust** 是一种 `预编译静态类型（ahead-of-time complied）语言`
+	- [[Rust 语言环境安装 MAC]]
+	- [[Hello World!]]
+	- [[hello_cargo]]
+-

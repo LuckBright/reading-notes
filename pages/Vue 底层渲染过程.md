@@ -5,5 +5,5 @@
 	- 4、对比新旧Virtual DOM树：Vue会对比新旧Virtual DOM树的差异，找出需要更新的部分。
 	- 5、更新DOM：Vue会根据差异更新真实的DOM树。
 - 以下是简单的流程图
-	- ![Vue组件渲染流程图](https://cdn.jsdelivr.net/gh/LuckBright/uPicImage@main/uPic/rKkiz9.png)
+	- ![Vue组件渲染流程图](https://cdn.jsdelivr.net/gh/LuckBright/uPicImage@main/uPic/rKkiz9.png){:height 198, :width 602}
 -
